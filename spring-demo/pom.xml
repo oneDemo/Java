@@ -9,10 +9,9 @@
         <version>2.2.5.RELEASE</version>
     </parent>
 
-    <groupId>com.example.spring</groupId>
+    <groupId>com.example</groupId>
     <artifactId>spring-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>spring-demo</name>
 
     <properties>
         <java.version>1.8</java.version>
