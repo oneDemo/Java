@@ -1,6 +1,7 @@
 package thread;
 
 public class ThreadLocalDemo {
+
     private static final ThreadLocal<Object> threadLocal = new ThreadLocal<Object>() {
         /**
          * ThreadLocal没有被当前线程赋值时或当前线程刚调用remove方法后调用get方法，返回此方法值
