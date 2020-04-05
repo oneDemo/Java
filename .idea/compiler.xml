@@ -13,7 +13,7 @@
     <bytecodeTargetLevel>
       <module name="Java" target="1.5" />
       <module name="learning-demo" target="6" />
-      <module name="spring-demo" target="1.8" />
+      <module name="spring-demo" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
