@@ -28,11 +28,17 @@ public class CallableTest {
 
         System.out.println("submit:" + date2Str());
 
-        Thread.sleep(2000);
-        System.out.println("主线程同步执行中:" + date2Str());
+        //Thread.sleep(2000);
+        //System.out.println("主线程同步执行中:" + date2Str());
+
+        System.out.println("start 业务代码块");
+
+        System.out.println("end 业务代码块");
 
         //future在get的时候属于阻塞状态，会更待task任务执行结束
         System.out.println("等待task执行结束:" + date2Str());
+
+        //result.get：会一直等待线程执行完成
         System.out.println("task运行结果:" + date2Str() + "->" + result.get());
 
         System.out.println("执行结束:" + date2Str());
@@ -47,7 +53,7 @@ public class CallableTest {
         public Integer call() throws Exception {
 
             System.out.println("子线程计算begin:" + date2Str());
-            Thread.sleep(3000);
+            Thread.sleep(30000);
             int sum = 0;
             for (int i = 0; i < 100; i++) {
                 sum += i;
