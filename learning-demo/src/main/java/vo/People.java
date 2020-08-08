@@ -52,11 +52,12 @@ public class People implements Comparable<People>, Serializable, Cloneable {
         return this.age - o.getAge();
     }
 
-    @Override
-    public String toString() {
-        return "People{" +
-            "age=" + age +
-            '}';
-    }
-
+    //@Override
+    //public String toString() {
+    //    return "People{" +
+    //        "age=" + age +
+    //        ", name='" + name + '\'' +
+    //        ", school=" + school +
+    //        '}';
+    //}
 }
