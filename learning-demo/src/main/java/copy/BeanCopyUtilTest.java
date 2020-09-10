@@ -13,15 +13,20 @@ public class BeanCopyUtilTest {
 
     @Test
     public void copyTest() {
-        People tom = new People(1);
+
         School school = new School();
         school.setAddress("福建");
+
+        People tom = new People(1);
         tom.setSchool(school);
 
         People li = new People(2);
-        //深复制
+        //对象本身深拷贝，对象的引用对象浅拷贝
         BeanUtils.copyProperties(tom, li);
+
         li.getSchool().setAddress("浙江");
+
+        school.setAddress("浅复制，schoole都被变更了");
 
         System.out.println(tom);
         System.out.println(li);
@@ -39,6 +44,7 @@ public class BeanCopyUtilTest {
         li.getSchool().setAddress("浙江");
         li.setAge(2);
 
+        school.setAddress("浅复制，schoole都被变更了");
         System.out.println(tom);
         System.out.println(li);
 
