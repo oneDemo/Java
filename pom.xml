@@ -13,5 +13,6 @@
     <modules>
         <module>learning-demo</module>
         <module>spring-demo</module>
+        <module>learning-data</module>
     </modules>
 </project>

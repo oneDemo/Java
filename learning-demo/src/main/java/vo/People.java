@@ -44,7 +44,10 @@ public class People implements Comparable<People>, Serializable, Cloneable {
 
     @Override
     public Object clone() throws CloneNotSupportedException {
-        return super.clone();
+        People people = (People)super.clone();
+        //clone深复制实现
+        people.school = (School)school.clone();
+        return people;
     }
 
     @Override
@@ -52,12 +55,12 @@ public class People implements Comparable<People>, Serializable, Cloneable {
         return this.age - o.getAge();
     }
 
-    //@Override
-    //public String toString() {
-    //    return "People{" +
-    //        "age=" + age +
-    //        ", name='" + name + '\'' +
-    //        ", school=" + school +
-    //        '}';
-    //}
+    @Override
+    public String toString() {
+        return "People{" +
+            "age=" + age +
+            ", name='" + name + '\'' +
+            ", school=" + school +
+            '}';
+    }
 }
