@@ -9,7 +9,6 @@
         <module name="learning-data" />
         <module name="learning-demo" />
         <module name="mybatis-framework" />
-        <module name="spring-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
