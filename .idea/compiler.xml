@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="learning-data" />
         <module name="learning-demo" />
+        <module name="mybatis-framework" />
         <module name="spring-demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java" target="1.5" />
-      <module name="learning-demo" target="6" />
-      <module name="spring-demo" target="1.5" />
+      <module name="learning-data" target="1.5" />
+      <module name="learning-demo" target="1.8" />
+      <module name="mybatis-framework" target="6" />
+      <module name="spring-demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
