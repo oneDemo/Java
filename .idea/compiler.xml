@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="learning-data" />
         <module name="learning-demo" />
-        <module name="mybatis-framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +16,7 @@
       <module name="learning-demo" target="1.8" />
       <module name="mybatis-framework" target="6" />
       <module name="spring-demo" target="1.8" />
+      <module name="spring-framework" target="6" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
