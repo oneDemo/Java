@@ -16,5 +16,6 @@
         <module>learning-data</module>
         <module>mybatis-framework</module>
         <module>spring-framework</module>
+        <module>spring-mvc</module>
     </modules>
 </project>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/learning-demo/learning-demo.iml" filepath="$PROJECT_DIR$/learning-demo/learning-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/mybatis-framework/mybatis-framework.iml" filepath="$PROJECT_DIR$/mybatis-framework/mybatis-framework.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-framework/spring-framework.iml" filepath="$PROJECT_DIR$/spring-framework/spring-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc/spring-mvc.iml" filepath="$PROJECT_DIR$/spring-mvc/spring-mvc.iml" />
     </modules>
   </component>
 </project>
