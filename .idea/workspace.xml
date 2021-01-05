@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../../wp/B/admin/wmsadmin-web/src/main/java/com/wdk/wms/admin/webx/home/module/screen/monitor/WaveReportSupport.java" description="sourceOrderDetailCountList" line="87" />
+    <bookmark url="file://$PROJECT_DIR$/../../wp/wdk-ums-outbound-plan/ums-outbound-plan-domain/ums-outbound-plan-domain-outboundorder/src/main/java/com/wdk/ums/outbound/domain/outboundorder/core/model/OutboundOrderModel.java" description="public String getOrderSequenceNumber() {" line="571" />
+    <bookmark url="file://$PROJECT_DIR$/../../wp/wdk-ums-outbound-plan/ums-outbound-plan-domain/ums-outbound-plan-domain-outboundorder/src/main/java/com/wdk/ums/outbound/domain/outboundorder/core/model/OutboundOrderModel.java" description="public Integer getOrderStatus() {" line="567" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68171743-66db-4706-bcb9-f3b055f89c17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/smartfox/common_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/learning-demo/target/" />
+    <ignored path="$PROJECT_DIR$/spring-demo/target/" />
+    <ignored path="$PROJECT_DIR$/learning-data/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis-framework/target/" />
+    <ignored path="$PROJECT_DIR$/mybatis-framework/spring-framework/target/" />
+    <ignored path="$PROJECT_DIR$/spring-framework/target/" />
+    <ignored path="$PROJECT_DIR$/spring-mvc/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Java" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="2939" column="35" lean-forward="true" selection-start-line="2939" selection-start-column="35" selection-end-line="2939" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="2532" selection-start-line="2532" selection-end-line="2532" />
+              <folding>
+                <element signature="e#101735#101736#0" expanded="true" />
+                <element signature="e#101781#101782#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="1085" column="19" selection-start-line="1085" selection-start-column="19" selection-end-line="1085" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Kotlin Class" />
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>capacity</find>
+      <find>synchronized</find>
+      <find>ReentrantLock</find>
+      <find>Segment</find>
+      <find>16</find>
+      <find>concurrencyLevel</find>
+      <find>ThreadPoolExecutor</find>
+      <find>线程池</find>
+      <find>Executors</find>
+      <find>Synchronous</find>
+      <find>interruptEx</find>
+      <find>1.8</find>
+      <find>org.apache.maven.plug</find>
+      <find>org.apache.maven.plugins</find>
+      <find>putIndex</find>
+      <find>while (this</find>
+      <find>18</find>
+      <find>reent</find>
+      <find>object</find>
+      <find>state</find>
+      <find>putLock</find>
+      <find>lock</find>
+      <find>XMLConfigBuilder</find>
+      <find>8.0.19</find>
+      <find>BeanDefinitionRegistry</find>
+      <find>getBeanDefinition</find>
+      <find>getBeanDefinitions</find>
+      <find>AutowireCapableBeanFactory</find>
+      <find>AbstractAutowireCapableBeanFactory</find>
+      <find>main</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/learning-demo/src/main/resources/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/learning-demo/src/main/java/spring/Course.java" />
+        <option value="$PROJECT_DIR$/learning-demo/src/main/java/spring/Student.java" />
+        <option value="$PROJECT_DIR$/learning-demo/src/main/resources/beans.xml" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/BeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/ListableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/PropertyValue.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/BeanDefinitionRegistry.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/AutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/SingletonBeanRegistry.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/support/DefaultSingletonBeanRegistry.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/support/AbstractBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/util/ReflectUtils.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/RuntimeBeanReference.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/aware/Aware.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/aware/BeanFactoryAware.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/support/AbstractAutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/AbstractBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/AbstractAutowireCapableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/DefaultListableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/spring-framework/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/util/DocumentReader.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/xml/XmlBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/BeanDefinition.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/xml/XmlBeanDefinitionDocumentReader.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/TypedStringValue.java" />
+        <option value="$PROJECT_DIR$/learning-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/resource/Resource.java" />
+        <option value="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/resource/ClasspathResource.java" />
+        <option value="$PROJECT_DIR$/learning-demo/src/main/java/spring/test/SpringTest.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/Controller.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/RequestMapping.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/RequestBody.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/ResponseBody.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/servlet/AbstractServlet.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/iface/HandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/iface/HandlerMapping.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/servlet/DispatchServlet.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/util/JsonUtils.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handler/HandlerMethod.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/RequestMappingHandlerMapping.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/iface/HttpRequestHandler.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/HttpRequestHandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handler/iface/HttpRequestHandler.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/RequestMappingHandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/BeanNameUrlHandlerMapping.java" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/resources/springmvc.xml" />
+        <option value="$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1605183750508" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wang.springmvc.controller" />
+      <recent name="com.wang.springmvc.util" />
+      <recent name="com.wang.spring.xml" />
+      <recent name="com.wang.spring.definition" />
+      <recent name="spring" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-mvc/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/util" />
+      <recent name="$PROJECT_DIR$/learning-demo/src/main/resources" />
+      <recent name="$PROJECT_DIR$/learning-demo/src/main/resources/mapper" />
+      <recent name="$PROJECT_DIR$/learning-demo/src/main" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadLocalDemo">
+    <configuration name="ThreadLocalDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ThreadLocalDemo" />
+      <module name="learning-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MybatisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mybatis.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mybatis.test" />
+      <option name="MAIN_CLASS_NAME" value="mybatis.test.MybatisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectPassTest.passTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ObjectPassTest" />
+      <option name="METHOD_NAME" value="passTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="queue" />
+      <option name="MAIN_CLASS_NAME" value="queue.QueueTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="learning-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="spring.test" />
+      <option name="MAIN_CLASS_NAME" value="spring.test.SpringTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.spring.springdemo.SpringDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThreadLocalDemo" />
+        <item itemvalue="JUnit.SpringTest.test" />
+        <item itemvalue="JUnit.MybatisTest.test" />
+        <item itemvalue="JUnit.ObjectPassTest.passTest" />
+        <item itemvalue="JUnit.QueueTest.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68171743-66db-4706-bcb9-f3b055f89c17" name="Default Changelist" comment="" />
+      <created>1584863963088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584863963088</updated>
+      <workItem from="1584863964462" duration="12000" />
+      <workItem from="1585202826855" duration="593000" />
+      <workItem from="1585733041694" duration="262000" />
+      <workItem from="1585733875214" duration="44000" />
+      <workItem from="1585877652143" duration="671000" />
+      <workItem from="1585906936520" duration="370000" />
+      <workItem from="1586092489019" duration="6836000" />
+      <workItem from="1586263672920" duration="320000" />
+      <workItem from="1586264104288" duration="1156000" />
+      <workItem from="1586696985278" duration="2361000" />
+      <workItem from="1586828014633" duration="2334000" />
+      <workItem from="1587185902933" duration="215000" />
+      <workItem from="1587220990128" duration="1217000" />
+      <workItem from="1587371282346" duration="725000" />
+      <workItem from="1587821561956" duration="642000" />
+      <workItem from="1588523184311" duration="4502000" />
+      <workItem from="1589730348107" duration="255000" />
+      <workItem from="1590890222936" duration="3727000" />
+      <workItem from="1591410089727" duration="2737000" />
+      <workItem from="1591846302696" duration="2752000" />
+      <workItem from="1591927965306" duration="1931000" />
+      <workItem from="1592190330929" duration="1323000" />
+      <workItem from="1592275557396" duration="578000" />
+      <workItem from="1596077274368" duration="1161000" />
+      <workItem from="1596188312047" duration="83000" />
+      <workItem from="1596708483914" duration="1289000" />
+      <workItem from="1596899830241" duration="4138000" />
+      <workItem from="1598965708083" duration="15000" />
+      <workItem from="1599107973993" duration="1075000" />
+      <workItem from="1599213741417" duration="3750000" />
+      <workItem from="1599303122292" duration="5965000" />
+      <workItem from="1599404511584" duration="547000" />
+      <workItem from="1599544631224" duration="24000" />
+      <workItem from="1599699788733" duration="540000" />
+      <workItem from="1599712912010" duration="1469000" />
+      <workItem from="1599714398978" duration="77000" />
+      <workItem from="1599902678980" duration="9360000" />
+      <workItem from="1600133916249" duration="494000" />
+      <workItem from="1600230824764" duration="1720000" />
+      <workItem from="1600579160795" duration="8327000" />
+      <workItem from="1601028003581" duration="82000" />
+      <workItem from="1601708373904" duration="1467000" />
+      <workItem from="1601868054420" duration="3403000" />
+      <workItem from="1602132438053" duration="4375000" />
+      <workItem from="1602340356569" duration="8918000" />
+      <workItem from="1602513417327" duration="1197000" />
+      <workItem from="1602989377153" duration="168000" />
+      <workItem from="1602989550600" duration="8295000" />
+      <workItem from="1603155478816" duration="1277000" />
+      <workItem from="1604573601374" duration="2000" />
+      <workItem from="1605166204913" duration="181000" />
+      <workItem from="1605183515051" duration="241000" />
+    </task>
+    <task id="LOCAL-00001" summary="demo">
+      <created>1586092751259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586092751259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="demo">
+      <created>1586099436271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586099436271</updated>
+    </task>
+    <task id="LOCAL-00003" summary="demo">
+      <created>1586697200264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586697200264</updated>
+    </task>
+    <task id="LOCAL-00004" summary="demo">
+      <created>1588523205696</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588523205697</updated>
+    </task>
+    <task id="LOCAL-00005" summary="demo">
+      <created>1588571864714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588571864714</updated>
+    </task>
+    <task id="LOCAL-00006" summary="demo">
+      <created>1590934845707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590934845707</updated>
+    </task>
+    <task id="LOCAL-00007" summary="demo">
+      <created>1596900961631</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596900961631</updated>
+    </task>
+    <task id="LOCAL-00008" summary="demo">
+      <created>1599714466244</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599714466244</updated>
+    </task>
+    <task id="LOCAL-00009" summary="demo">
+      <created>1600133948834</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1600133948834</updated>
+    </task>
+    <task id="LOCAL-00010" summary="demo">
+      <created>1600232633549</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1600232633549</updated>
+    </task>
+    <task id="LOCAL-00011" summary="demo">
+      <created>1600580173111</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1600580173111</updated>
+    </task>
+    <task id="LOCAL-00012" summary="demo">
+      <created>1600580975941</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1600580975941</updated>
+    </task>
+    <task id="LOCAL-00013" summary="demo">
+      <created>1600581676139</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600581676139</updated>
+    </task>
+    <task id="LOCAL-00014" summary="demo">
+      <created>1600582429157</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1600582429157</updated>
+    </task>
+    <task id="LOCAL-00015" summary="demo">
+      <created>1600582685778</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1600582685778</updated>
+    </task>
+    <task id="LOCAL-00016" summary="demo">
+      <created>1600582931055</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1600582931055</updated>
+    </task>
+    <task id="LOCAL-00017" summary="demo">
+      <created>1600583225482</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1600583225482</updated>
+    </task>
+    <task id="LOCAL-00018" summary="demo">
+      <created>1600586142537</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1600586142537</updated>
+    </task>
+    <task id="LOCAL-00019" summary="demo">
+      <created>1600586295346</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1600586295346</updated>
+    </task>
+    <task id="LOCAL-00020" summary="demo">
+      <created>1600586429896</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1600586429896</updated>
+    </task>
+    <task id="LOCAL-00021" summary="demo">
+      <created>1600588221773</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1600588221773</updated>
+    </task>
+    <task id="LOCAL-00022" summary="demo">
+      <created>1600615176106</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1600615176107</updated>
+    </task>
+    <task id="LOCAL-00023" summary="demo">
+      <created>1600615503865</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1600615503865</updated>
+    </task>
+    <task id="LOCAL-00024" summary="demo">
+      <created>1600615580363</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1600615580363</updated>
+    </task>
+    <task id="LOCAL-00025" summary="demo">
+      <created>1600615895506</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1600615895506</updated>
+    </task>
+    <task id="LOCAL-00026" summary="demo">
+      <created>1600616059207</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1600616059207</updated>
+    </task>
+    <task id="LOCAL-00027" summary="demo">
+      <created>1600616471643</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1600616471643</updated>
+    </task>
+    <task id="LOCAL-00028" summary="demo">
+      <created>1600616986663</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600616986663</updated>
+    </task>
+    <task id="LOCAL-00029" summary="demo">
+      <created>1601867838614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1601867838615</updated>
+    </task>
+    <task id="LOCAL-00030" summary="demo">
+      <created>1602989428192</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602989428192</updated>
+    </task>
+    <task id="LOCAL-00031" summary="demo">
+      <created>1602989468495</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1602989468495</updated>
+    </task>
+    <task id="LOCAL-00032" summary="demo">
+      <created>1602989498566</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1602989498566</updated>
+    </task>
+    <task id="LOCAL-00033" summary="demo">
+      <created>1602989523564</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1602989523564</updated>
+    </task>
+    <task id="LOCAL-00034" summary="demo">
+      <created>1602996185125</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602996185125</updated>
+    </task>
+    <task id="LOCAL-00035" summary="demo">
+      <created>1603029221825</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1603029221825</updated>
+    </task>
+    <task id="LOCAL-00036" summary="demo">
+      <created>1603156738019</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1603156738019</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 40m 34s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 41m 57s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 44m 00s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 44m 50s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 48m 31s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 49m 42s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 49m 49s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.11 at 15h 50m 51s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MybatisTest_test - 2020.10.13 at 00h 03m 11s.xml">
+      <configuration name="MybatisTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringTest_test - 2020.10.18 at 16h 13m 02s.xml">
+      <configuration name="SpringTest.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105203000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49526066" visible="true" weight="0.3104435" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24964234" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50473934" side_tool="true" weight="0.2746781" />
+      <window_info id="Web" order="7" sideWeight="0.50318474" side_tool="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.45859873" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.29759037" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.35903615" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="TALA" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="Spring" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32771084" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50143063" side_tool="true" weight="0.41445783" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32866243" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.4985694" weight="0.5421687" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49785408" weight="0.32771084" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.38340485" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297568" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Aone" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26108727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33630574" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43012047" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TALA" order="7" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299363" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" visible="true" weight="0.4165605" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Aone" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/queue/QueueTest.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/queue/QueueTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/queue/QueueTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/queue/QueueTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/mybatis/test/MybatisTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/execute/BaseExecutor.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/sqlsession/DefaultSqlSession.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/execute/CachingExecutor.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/execute/SimpleExecutor.java</url>
+          <line>113</line>
+          <properties />
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/execute/SimpleExecutor.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/mybatis/test/MybatisTest.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis-framework/src/main/java/com/wang/execute/SimpleExecutor.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>blockingQueue.size()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>blockingQueue.poll()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>tab.length</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>0x7FFFFFFF</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>m</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>node(index)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>c.contains(elementData[r])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>elementData[r]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>size++</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/PropertyValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="18" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding>
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/RuntimeBeanReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/util/ReflectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="56" column="23" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/AbstractBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/AbstractAutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/util/DocumentReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/registry/BeanDefinitionRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/xml/XmlBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/BeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#351#0" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#435#436#0" expanded="true" />
+            <element signature="e#477#478#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#591#592#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#797#798#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1186#1187#0" expanded="true" />
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+            <element signature="e#1447#1448#0" expanded="true" />
+            <element signature="e#1499#1500#0" expanded="true" />
+            <element signature="e#1709#1710#0" expanded="true" />
+            <element signature="e#1754#1755#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/definition/TypedStringValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/xml/XmlBeanDefinitionDocumentReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1649">
+          <caret line="97" column="9" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.4.RELEASE/spring-beans-5.2.4.RELEASE.jar!/org/springframework/beans/factory/xml/XmlBeanDefinitionReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/resource/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/resource/ClasspathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-demo/src/main/java/spring/test/SpringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="62" selection-start-line="18" selection-start-column="62" selection-end-line="18" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/aware/Aware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-demo/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="48" column="35" selection-start-line="48" selection-start-column="35" selection-end-line="48" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/annotation/Target.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/RequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="21" selection-start-line="11" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/ResponseBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/annotation/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/servlet/AbstractServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/servlet/DispatchServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/util/JsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/javafx-src.zip!/com/sun/javafx/media/PrismMediaFrameHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="54" selection-end-line="50" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/factory/support/DefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/iface/HandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/HttpRequestHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handler/iface/HttpRequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handleradapter/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/iface/HandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/RequestMappingHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handlermapping/BeanNameUrlHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-mvc/src/main/java/com/wang/springmvc/handler/HandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-framework/src/main/java/com/wang/spring/aware/BeanFactoryAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/smartfox/common_info.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="2939" column="35" lean-forward="true" selection-start-line="2939" selection-start-column="35" selection-end-line="2939" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="1085" column="19" selection-start-line="1085" selection-start-column="19" selection-end-line="1085" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="2532" selection-start-line="2532" selection-end-line="2532" />
+          <folding>
+            <element signature="e#101735#101736#0" expanded="true" />
+            <element signature="e#101781#101782#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning-demo/src/main/java/thread/ThreadLocalDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grooy</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-mvc</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.springframework:spring-beans:5.2.4.RELEASE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
