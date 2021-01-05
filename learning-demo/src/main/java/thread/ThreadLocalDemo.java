@@ -14,8 +14,11 @@ public class ThreadLocalDemo {
     };
 
     public static void main(String[] args) {
-        new Thread(new MyIntegerTask("线程1", 10)).start();
-        new Thread(new MyIntegerTask("线程2", 20)).start();
+        //new Thread(new MyIntegerTask("线程1", 10)).start();
+        //new Thread(new MyIntegerTask("线程2", 20)).start();
+        String abc = String.format(":%s", 12);
+
+        System.out.println(abc);
     }
 
     public static class MyIntegerTask implements Runnable {
