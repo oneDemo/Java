@@ -39,16 +39,18 @@ public class CountDownLatchTest {
 //            int a = 2;
 //        }
 
-        if (1 == 1) {
-            int a = 1;
-        }
-        else if (1 == 1) {
-            int a = 1;
-        }
-       else if (1 == 1) {
-            int a = 1;
-        } else {
-            int a = 1;
-        }
+//        if (1 == 1) {
+//            int a = 1;
+//        }
+//        else if (1 == 1) {
+//            int a = 1;
+//        }
+//       else if (1 == 1) {
+//            int a = 1;
+//        } else {
+//            int a = 1;
+//        }
+
+
     }
 }
